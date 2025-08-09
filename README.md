@@ -1,1 +1,1 @@
-# spring-swagger-customizer
+# spring-swagger-custom
